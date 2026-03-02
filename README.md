@@ -10,6 +10,10 @@ A full-stack machine learning project that predicts residential property prices 
 
 ---
 
+## Video Demo
+
+[![YouTube Demo](https://www.youtube.com/watch?v=kycgobofe80)](https://www.youtube.com/watch?v=kycgobofe80)
+
 ## 📌 Project Overview
 
 Predicting home prices is one of the most practical and high-value applications of machine learning in real estate. This project builds an end-to-end pipeline — from raw housing data through feature engineering, model comparison, and deployment — to produce a working price prediction tool for Canadian cities including **Toronto**, **Vancouver**, and **Barrie**.
